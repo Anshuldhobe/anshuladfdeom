@@ -1,0 +1,9 @@
+{
+	"name": "anshuldhobeprod2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9dec7e19-8d55-45b6-87dd-4cf189f118b1",
+		"tenantId": "44be9c3b-97fc-43f2-a4d8-b578f30a735a"
+	}
+}
