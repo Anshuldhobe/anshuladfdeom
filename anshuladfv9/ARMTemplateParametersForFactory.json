@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "anshuladfv9"
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"newsqlls_password": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "anshuladmin.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "anshuldatabase"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "adminanshul"
+		},
+		"newsqlls_properties_typeProperties_server": {
+			"value": "anshuladmin.database.windows.net"
+		},
+		"newsqlls_properties_typeProperties_database": {
+			"value": "anshuldatabase"
+		},
+		"newsqlls_properties_typeProperties_userName": {
+			"value": "adminanshul"
+		}
+	}
+}
