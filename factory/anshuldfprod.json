@@ -1,0 +1,9 @@
+{
+	"name": "anshuldfprod",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "980a6420-9604-43cb-b2b2-ef5ee7495b47",
+		"tenantId": "44be9c3b-97fc-43f2-a4d8-b578f30a735a"
+	}
+}
